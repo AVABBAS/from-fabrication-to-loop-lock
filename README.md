@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-submitted-blue" alt="Status: submitted">
-  <img src="https://img.shields.io/badge/journal-Security%20Journal-1d4266" alt="Journal: Security Journal">
+  <img src="https://img.shields.io/badge/journal-Information%20Security%20Journal%3A%20A%20Global%20Perspective-1d4266" alt="Journal: Information Information Security Journal: A Global Perspective: A Global Perspective">
   <a href="https://www.researchsquare.com/article/rs-11454609"><img src="https://img.shields.io/badge/preprint-Research%20Square-orange" alt="Preprint: Research Square"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="License: CC BY 4.0"></a>
 </p>
@@ -36,7 +36,7 @@
 
 Data and materials for the article:
 
-> Hamidavi, A., and Borhani, M. *From Fabrication to Loop-Lock: An Exploratory Red-Team Case Series of Direct Authority-Based Induction in Five Large Language Models.* Submitted to *Security Journal*, November 2026. Preprint: Research Square, rs-11454609. The same materials are also deposited on the Open Science Framework: [osf.io/tk28m](https://osf.io/tk28m/).
+> Hamidavi, A., and Borhani, M. *From Fabrication to Loop-Lock: An Exploratory Red-Team Case Series of Direct Authority-Based Induction in Five Large Language Models.* Submitted to *Information Security Journal: A Global Perspective*, November 2026. Preprint: Research Square, rs-11454609. The same materials are also deposited on the Open Science Framework: [osf.io/tk28m](https://osf.io/tk28m/).
 
 <p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
 
@@ -73,7 +73,7 @@ Please cite the article. Citation metadata is provided in [CITATION.cff](CITATIO
   title   = {From Fabrication to Loop-Lock: An Exploratory Red-Team
              Case Series of Direct Authority-Based Induction in Five
              Large Language Models},
-  journal = {Security Journal},
+  journal = {Information Security Journal: A Global Perspective},
   year    = {2026},
   note    = {Manuscript submitted. Preprint: Research Square
              rs-11454609}
@@ -84,7 +84,7 @@ Please cite the article. Citation metadata is provided in [CITATION.cff](CITATIO
 
 - **Preprint (Research Square, open access):** [researchsquare.com/article/rs-11454609](https://www.researchsquare.com/article/rs-11454609)
 - **OSF deposit:** [osf.io/tk28m](https://osf.io/tk28m)
-- **Journal:** submitted to *Security Journal*; the publisher link will be added here if the article is published.
+- **Journal:** submitted to *Information Security Journal: A Global Perspective*; the publisher link will be added here if the article is published.
 
 ## ⚖️ Licence
 
